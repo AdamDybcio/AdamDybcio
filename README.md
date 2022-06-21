@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Adam
-- 👀 I’m interested in creating and developing mobile apps (both Android and IOS)
-- 🌱 I'm currently learning Flutter
-- 💞️ I'm looking for a job as a mobile application developer
+- 👀 I’m interested in creating and developing mobile apps
+- 🌱 I'm currently learning Flutter (going pretty good actually)
+- 💞️ I'm looking for a job as a junior flutter developer
 - 📫 You can reach me by sending me email on adam.dybcio.kontakt@gmail.com
