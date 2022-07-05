@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adam
 - 👀 I’m interested in creating and developing mobile apps
-- 💻 I'm currently learning how to use RxDart and BLoC
+- 💻 Currently, I am trying to create various apps to learn something from each one
 - 🤩 I'm looking for a job as a Junior Flutter Feveloper
 - 📫 You can reach me by sending me email on adam.dybcio.kontakt@gmail.com
 
