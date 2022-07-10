@@ -17,7 +17,7 @@
     - Authentication
     - Push Notifications (Messaging)
  - Google Cloud Platform <img src="https://user-images.githubusercontent.com/68535467/177568884-f16a31ec-f4bb-48bb-92b2-58964176d269.png" width="25" height="25">
- - BLoC architecture <img src="https://user-images.githubusercontent.com/68535467/177569784-a8944101-eaff-4412-afbd-a6c1d5badd55.png" width="30" height="27">
+ - BLoC architecture <img src="https://user-images.githubusercontent.com/68535467/177569784-a8944101-eaff-4412-afbd-a6c1d5badd55.png" width="25" height="30">
  - REST API
  - knowledge about how to publish an application on Google Play and the App Store (I did not publish any of my own because I did not feel the need)
  - a bit of RxDart
