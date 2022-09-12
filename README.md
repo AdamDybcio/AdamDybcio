@@ -23,3 +23,5 @@
  - a bit of RxDart
  - a bit of CI/CD
  - experience with Android Studio (Java)
+
+### Sorry for not posting anything in a while, but i am working on an app that i can't share here 😔
