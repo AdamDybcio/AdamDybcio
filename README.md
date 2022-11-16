@@ -19,7 +19,7 @@
  - Google Cloud Platform <img src="https://user-images.githubusercontent.com/68535467/177568884-f16a31ec-f4bb-48bb-92b2-58964176d269.png" width="25" height="25">
  - BLoC architecture <img src="https://user-images.githubusercontent.com/68535467/177569784-a8944101-eaff-4412-afbd-a6c1d5badd55.png" width="25" height="30">
  - REST API
- - knowledge about how to publish an application on Google Play and the App Store
+ - knowledge about how to publish an application on Google Play and the App Store (and practical experience with the AppStore, but the application is not available to everyone due to its intended use)
  - a bit of RxDart
  - CI/CD (Codemagic)
  - experience with Android Studio (Java)
