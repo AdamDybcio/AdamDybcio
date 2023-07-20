@@ -24,3 +24,5 @@
  - CI/CD (Codemagic) <img src="https://user-images.githubusercontent.com/68535467/202288034-694ecd91-a6a6-4f75-b0ee-69a5f6a1baba.png" width="25" height="25">
  - experience with Android Studio (Java)
  - creating custom animations via AnimatedBuilder (and such as, for example, AnimatedContainer)
+
+### I've pinned my tiny portfolio below, you can check it out and give me your feedback! I encourage you! 😄
