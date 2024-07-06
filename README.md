@@ -20,7 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/adam-dybcio-b49a35244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-dybcio-b49a35244" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/adam-dybcio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-dybcio" height="30" width="40" /></a>
 <a href="https://fb.com/tendredziarz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tendredziarz" height="30" width="40" /></a>
 <a href="https://instagram.com/adam_dybcio_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adam_dybcio_here" height="30" width="40" /></a>
 </p>
