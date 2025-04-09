@@ -83,4 +83,4 @@ I'm a passionate and aspiring Flutter Developer eager to contribute to innovativ
 
 ## 🎯 Call to Action
 
-> Are you looking for a passionate and skilled Junior Flutter Developer? Contact me at adam.dybcio.kontakt@gmail.com. Let's build amazing apps together!
+> Are you looking for a passionate and skilled Flutter Developer? Contact me at adam.dybcio.kontakt@gmail.com. Let's build amazing apps together!
