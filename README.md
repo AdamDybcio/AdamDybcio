@@ -1,86 +1,81 @@
-# Hello 👋, I'm Adam Dybcio - Flutter Developer
+# Hi 👋 I'm Adam Dybcio
 
-I'm a passionate and aspiring Flutter Developer eager to contribute to innovative projects. My expertise lies in crafting beautiful, efficient, and user-friendly mobile applications using Flutter. This portfolio showcases my skills, projects, and experiences. I'm actively seeking a Flutter Developer role where I can apply my knowledge and continue to grow as a developer.
+Backend Developer (PHP/Symfony) and Mobile Developer (Flutter)
 
-## ✨ About Me
+I am a Computer Science graduate and developer focused on building backend systems and mobile applications.
+Professionally I worked with **PHP and Symfony**, developing REST APIs and backend services.
+Privately I focus on **Flutter mobile development**, building cross-platform mobile applications.
 
-> I'm currently working on honing my skills in Flutter development and building a commercial-grade application. I'm passionate about creating clean, maintainable, and scalable code. I'm eager to learn from experienced developers and contribute to meaningful projects.
-
-**Skills:**
-
-*   Proficient in Flutter and Dart
-*   Experience with RESTful APIs and JSON
-*   Knowledge of mobile UI/UX principles
-*   Version control using Git
-*   Familiarity with Firebase services
-*   Strong problem-solving and debugging skills
-*   Experience with Agile development methodologies
-
-**Career Aspirations:**
-
-> I aspire to become a Senior Flutter Developer, leading teams and architecting complex mobile applications. I'm committed to continuous learning and staying up-to-date with the latest trends in mobile development. I'm also interested in exploring cross-platform development and contributing to the Flutter community.
-
-## 🛠️ Tech Stack:
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-000?style=for-the-badge&logo=rest-api&logoColor=white)
-![JSON](https://img.shields.io/badge/json-8C8A83?style=for-the-badge&logo=json&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-## 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=AdamDybcio&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=AdamDybcio&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdamDybcio&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=AdamDybcio&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=AdamDybcio&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I enjoy writing clean, maintainable code and understanding the full software development lifecycle - from architecture and development to testing and deployment.
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AdamDybcio&icon=6&color=4)](https://visitcount.itsvg.in)
+# 🚀 About Me
 
-## 🤝 Let's Connect!
+• 🎓 Computer Science graduate - Nicolaus Copernicus University
+• 💻 Backend experience with **PHP & Symfony**
+• 📱 Mobile development with **Flutter & Dart**
+• ⚙️ Experience with APIs, databases and backend architecture
+• 🔍 Interested in scalable systems and modern mobile apps
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TenDredziarz)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/adam_dybcio_here)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-dybcio)
+Currently I am looking for opportunities as:
 
-## 📧 Contact Me
+• **Junior PHP / Symfony Developer**
+• **Junior Flutter Developer**
 
-> adam.dybcio.kontakt@gmail.com
+---
 
-## 💰 You can help me by Donating
+# 🛠 Tech Stack
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AdamDybcio)
+### Backend
 
-## 🎯 Call to Action
+PHP • Symfony • REST API • Doctrine • PostgreSQL • MySQL
 
-> Are you looking for a passionate and skilled Flutter Developer? Contact me at adam.dybcio.kontakt@gmail.com. Let's build amazing apps together!
+### Mobile
+
+Flutter • Dart • Firebase
+
+### Tools
+
+Git • Docker • Linux • Postman • Composer
+
+### Testing & Quality
+
+PHPUnit • Behat • PHPSpec • PHPStan • Psalm • PHPCSFixer • Xdebug
+
+---
+
+# 💼 Professional Experience
+
+### Junior PHP Developer - ITEO
+
+2025 - 2026
+
+• Development of backend services using **PHP and Symfony**
+• Designing and implementing **REST APIs**
+• Integration with **PostgreSQL / MySQL databases** using Doctrine
+• Writing **unit and functional tests** (PHPUnit, Behat, PHPSpec)
+• Debugging with **Xdebug**
+• Maintaining development environments with **Docker**
+• Collaboration with frontend developers, QA and PM
+
+---
+
+# 📱 Flutter Development
+
+Flutter is my main focus in personal projects.
+I build mobile applications with emphasis on:
+
+• clean architecture
+• good UI/UX
+• scalable code
+• REST API integration
+
+---
+
+# 📫 Contact
+
+📧 [adam.dybcio.kontakt@gmail.com](mailto:adam.dybcio.kontakt@gmail.com)
+
+💼 LinkedIn
+https://linkedin.com/in/adam-dybcio
