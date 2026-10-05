@@ -1,81 +1,30 @@
-# Hi 👋 I'm Adam Dybcio
+# Hi, I'm Adam
 
-Backend Developer (PHP/Symfony) and Mobile Developer (Flutter)
+Junior Backend Developer (Java / Spring Boot, PHP / Symfony) based in Toruń, Poland.
+MSc student in Computer Science (AI specialization) at Nicolaus Copernicus University. Previously a PHP/Symfony developer at Iteo.
 
-I am a Computer Science graduate and developer focused on building backend systems and mobile applications.
-Professionally I worked with **PHP and Symfony**, developing REST APIs and backend services.
-Privately I focus on **Flutter mobile development**, building cross-platform mobile applications.
+**Looking for:** a junior backend role, hybrid around Toruń / Bydgoszcz or remote in Poland.
 
-I enjoy writing clean, maintainable code and understanding the full software development lifecycle - from architecture and development to testing and deployment.
+[Portfolio](https://dybcio.dev) · [LinkedIn](https://www.linkedin.com/in/adam-dybcio/) · [Email](mailto:adam.dybcio.kontakt@gmail.com) · [CV](https://dybcio.dev/cv.pdf)
 
----
+## What I'm building
 
-# 🚀 About Me
+**[Ordered](https://github.com/ordered-system)** - an Allegro-inspired marketplace backend in Java 21 and Spring Boot. Extracted from a monolith with the Strangler Fig pattern into order, product, user and engagement services behind a gateway (Eureka, Config Server, JWT). Kafka with a transactional outbox, Resilience4j, Prometheus / Grafana / Jaeger, deployed with Docker Compose and Caddy on an Oracle Cloud VM. Start with [ordered-infra](https://github.com/ordered-system/ordered-infra) or [ordered-order-service](https://github.com/ordered-system/ordered-order-service).
 
-• 🎓 Computer Science graduate - Nicolaus Copernicus University
-• 💻 Backend experience with **PHP & Symfony**
-• 📱 Mobile development with **Flutter & Dart**
-• ⚙️ Experience with APIs, databases and backend architecture
-• 🔍 Interested in scalable systems and modern mobile apps
+**[Unordered](https://adamdybcio.github.io/Unordered-Pro/)** - an AI gift-recommendation app in Flutter (Firebase, Cloudflare Workers, offline-first sync). Live demo.
 
-Currently I am looking for opportunities as:
+**Thesis and AI** - my master's thesis compares how long vulnerabilities survive before being patched in AI-generated vs human-written code. I'm also building a small RAG project in Python (ChromaDB, sentence-transformers, Groq).
 
-• **Junior PHP / Symfony Developer**
-• **Junior Flutter Developer**
+## Stack
 
----
+| | |
+|---|---|
+| Backend | Java 21, Spring Boot, Spring Cloud, Kafka, PHP, Symfony, Doctrine |
+| Data | PostgreSQL, MySQL, MongoDB, Redis, Flyway |
+| Testing | JUnit, Testcontainers, Gatling, PHPUnit, Behat |
+| Infra | Docker, GitHub Actions, Caddy, Prometheus, Grafana, Jaeger |
+| Also | Flutter / Dart, Firebase, Python |
 
-# 🛠 Tech Stack
+## Experience
 
-### Backend
-
-PHP • Symfony • REST API • Doctrine • PostgreSQL • MySQL
-
-### Mobile
-
-Flutter • Dart • Firebase
-
-### Tools
-
-Git • Docker • Linux • Postman • Composer
-
-### Testing & Quality
-
-PHPUnit • Behat • PHPSpec • PHPStan • Psalm • PHPCSFixer • Xdebug
-
----
-
-# 💼 Professional Experience
-
-### Junior PHP Developer - ITEO
-
-2025 - 2026
-
-• Development of backend services using **PHP and Symfony**
-• Designing and implementing **REST APIs**
-• Integration with **PostgreSQL / MySQL databases** using Doctrine
-• Writing **unit and functional tests** (PHPUnit, Behat, PHPSpec)
-• Debugging with **Xdebug**
-• Maintaining development environments with **Docker**
-• Collaboration with frontend developers, QA and PM
-
----
-
-# 📱 Flutter Development
-
-Flutter is my main focus in personal projects.
-I build mobile applications with emphasis on:
-
-• clean architecture
-• good UI/UX
-• scalable code
-• REST API integration
-
----
-
-# 📫 Contact
-
-📧 [adam.dybcio.kontakt@gmail.com](mailto:adam.dybcio.kontakt@gmail.com)
-
-💼 LinkedIn
-https://linkedin.com/in/adam-dybcio
+**Junior PHP Developer, Iteo S.A.** (Nov 2025 - Feb 2026) - Symfony backends, REST APIs, Doctrine, PHPUnit / Behat / PHPSpec.
